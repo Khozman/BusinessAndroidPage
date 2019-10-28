@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    tools:context=".MainActivity"
+    android:orientation="vertical">
+
+<!--    <ImageView-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        android:src="@drawable/graphics_design" />-->
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Mzilikazi Graphics Designers"
+        android:textSize="26dp"
+        android:textColor="#000"
+        android:paddingTop="16dp"
+        android:paddingLeft="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="About Us"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:paddingTop="16dp"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Here at Mzilikazi, we believe in personal customer service, while offering a premium design service and we are trend setters. We are a young and energetic agency with a good quality set of skills. We value customer relationships and are set out on an endless journey with each and every client. Relationships like these allow us to get excited and inspire us to produce great work that is original, creative and that really goes above and beyond your expectations."
+        android:textColor="#3b3b3b"
+        android:paddingBottom="16dp"
+        android:paddingLeft="16dp"
+        android:paddingRight="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="+27 67 272 2024"
+        android:textColor="#000"
+        android:textSize="20dp"
+        android:paddingTop="16dp"
+        android:paddingLeft="16dp"
+        android:paddingBottom="16dp"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="mzilikazi@info.co.za"
+        android:textSize="20dp"
+        android:textColor="#000"
+        android:paddingTop="16dp"
+        android:paddingLeft="16dp"
+        android:paddingBottom="16dp"/>
+
+
+
+
+
+</LinearLayout>
