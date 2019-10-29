@@ -17,7 +17,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Mzilikazi Graphics Designers"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:textColor="#000"
         android:paddingLeft="16dp"/>
 
@@ -25,7 +25,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="About Us"
-        android:textSize="18dp"
+        android:textSize="18sp"
         android:textColor="#000"
         android:paddingTop="16dp"
         android:paddingLeft="16dp"/>
@@ -45,7 +45,7 @@
         android:layout_height="wrap_content"
         android:text="+27 67 272 2024"
         android:textColor="#000"
-        android:textSize="18dp"
+        android:textSize="18sp"
         android:paddingTop="16dp"
         android:paddingLeft="16dp"/>
 
@@ -54,7 +54,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="mzilikazi@info.co.za"
-        android:textSize="20dp"
+        android:textSize="20sp"
         android:textColor="#000"
         android:paddingTop="16dp"
         android:paddingLeft="16dp"/>
@@ -63,7 +63,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="mzilikazi.ml"
-        android:textSize="18dp"
+        android:textSize="18sp"
         android:textColor="#000"
         android:paddingTop="16dp"
         android:paddingLeft="16dp"
@@ -73,7 +73,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Open Hours"
-        android:textSize="18dp"
+        android:textSize="18sp"
         android:textColor="#000"
         android:paddingLeft="16dp"/>
 
